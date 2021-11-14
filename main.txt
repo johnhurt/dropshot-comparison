@@ -1,0 +1,4 @@
+
+- name: Hit the Only Endpoint
+  duration: 1.394352
+  status: 200

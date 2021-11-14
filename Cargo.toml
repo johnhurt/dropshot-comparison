@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+	"dropshot-main",
+	"dropshot-pr"
+]
+
+
+[profile.release]
+debug = true
